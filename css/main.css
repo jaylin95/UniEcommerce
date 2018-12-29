@@ -1,0 +1,45 @@
+#headerWrapper{
+
+	position:relative;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+	height:700px;
+	background-image: url(../imgs/headerlogo/supreme-logo.png);
+	background-repeat: no-repeat;
+	background-size: 100% 650px;
+	background-position: top center;
+
+}
+
+#footer{
+	margin-top:50px;
+}
+
+img.details{
+	width: 33%;
+	margin: 15px auto;
+}
+
+.table-auto{
+	width:auto;
+	margin:0 auto;
+}
+
+#add-product-btn{
+	margin-top: 30px;
+}
+.saved_img img{
+	width: 200px;
+	height: auto;
+}
+
+/*#login-form{
+	width: 70%;
+	height: 700%;
+	border: 3px solid #000;
+	border-radius: 15px;
+	box-shadow: 8px 8px 16px rgba(0,0,0,0,65);
+	margin: 10% auto;
+	padding: 20px;
+}*/
